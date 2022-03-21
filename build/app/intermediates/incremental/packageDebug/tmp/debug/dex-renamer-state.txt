@@ -1,0 +1,4 @@
+#Mon Mar 21 21:53:38 JST 2022
+base.0=/Users/markryo/Development/flutter_course_app_flash_stocks/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
